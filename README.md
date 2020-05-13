@@ -2,6 +2,7 @@
 download team and player data from https://statsapi.web.nhl.com/
 
 all teams link : https://statsapi.web.nhl.com/api/v1/teams
+
 sample data format
 
 {
@@ -49,6 +50,7 @@ sample data format
   
   
 individual player from roster data sample link : https://statsapi.web.nhl.com/api/v1/teams/1/roster
+
 sample data format
 
 {
@@ -70,6 +72,7 @@ sample data format
   
   
 player stats sample link: https://statsapi.web.nhl.com/api/v1/people/8471233/stats?stats=statsSingleSeason&season=20192020
+
 sample stat format:
 
 {

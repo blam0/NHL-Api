@@ -2,6 +2,8 @@
 download team and player data from https://statsapi.web.nhl.com/
 
 all teams link : https://statsapi.web.nhl.com/api/v1/teams
+sample data format
+
 {
   "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
   "teams" : [ {
@@ -48,6 +50,7 @@ all teams link : https://statsapi.web.nhl.com/api/v1/teams
   
 individual player from roster data sample link : https://statsapi.web.nhl.com/api/v1/teams/1/roster
 sample data format
+
 {
   "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
   "roster" : [ {
@@ -68,6 +71,7 @@ sample data format
   
 player stats sample link: https://statsapi.web.nhl.com/api/v1/people/8471233/stats?stats=statsSingleSeason&season=20192020
 sample stat format:
+
 {
   "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
   "stats" : [ {
